@@ -1,0 +1,11 @@
+.cardimg{
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+   
+    margin-top: 18px !important;
+  }
+
+  .userdet{
+    display: flex;
+  }
